@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+statsmodels
+xgboost
+scipy
+jupyter
+streamlit
+xlrd
+openpyxl
+requests
